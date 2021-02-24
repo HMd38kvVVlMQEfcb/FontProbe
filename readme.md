@@ -7,4 +7,8 @@ Demonstrates these methods:
  - Win32 dialog, DS_SETFONT
  - Win32 dialog, DS_SHELLFONT
 
+Examples:
 
+![win7jp](win7jp.png)
+
+![winxp](winxp.png)
